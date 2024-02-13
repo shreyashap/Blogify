@@ -8,5 +8,8 @@ export default {
   theme: {
     extend: {},
   },
+  colors: {
+    green: "rgb(26, 137, 23)",
+  },
   plugins: [require("flowbite/plugin")],
 };
